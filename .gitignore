@@ -1,0 +1,23 @@
+# Bllokimi i mjedisit virtual (folderi yt .venv)
+.venv/
+venv/
+env/
+
+# Bllokimi i skedarëve të të dhënave
+*.csv
+*.xlsx
+*.xls
+*.json
+*.db
+*.sav
+
+# Modelet e trajnuara dhe raportet që mund të përmbajnë rezultate në nivel studenti
+*.joblib
+*.docx
+
+# Bllokimi i konfigurimeve personale të editorit
+*.code-workspace
+.vscode/
+__pycache__/
+DB_original/
+ResultFiles/
