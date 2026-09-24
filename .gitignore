@@ -21,3 +21,6 @@ env/
 __pycache__/
 DB_original/
 ResultFiles/
+
+# Bllokimi i skedarëve të Permbledhje 
+Permbledhje/
