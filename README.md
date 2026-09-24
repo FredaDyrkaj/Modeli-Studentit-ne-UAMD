@@ -210,13 +210,6 @@ Skedarët Excel, CSV, SPSS dhe databazat e fakulteteve **nuk përfshihen** në r
 - [Dizajni i fazës D](FInalWork/docs/superpowers/specs/2026-09-17-faza-d-ml-survival-design.md)
 - [README i fazës D dhe dashboard-it](FInalWork/PreProces/ML/README.md)
 
-### 👤 Autori
-
-- **Emri:** [plotësoni]
-- **Programi:** [plotësoni]
-- **Viti:** [plotësoni]
-
----
 
 ## 📄 License / Licenca
 
